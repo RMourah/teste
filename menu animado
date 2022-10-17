@@ -1,0 +1,61 @@
+<!DOCTYPEhtml >
+< html >
+< cabeça >
+    < meta  charset =' utf-8 ' >
+    < meta  http-equiv = ' conteúdo compatível com X-UA ' =' IE=edge ' >
+    < title > MENU ANIMADO </ title >
+    < meta  name =' viewport ' content =' largura=largura do dispositivo, escala inicial=1 ' >
+    < link  rel =' stylesheet ' type =' text/css ' media =' screen ' href =' main.css ' >
+    < script  src =' main.js ' > </ script >
+</ cabeça >
+< corpo >
+
+    < classe div  =" contêiner " >
+        < ul >
+            < li  style =" --i: #a955ff; --j:#ea51ff " >
+                < classe span  =" ícone " >
+                    < ion-icon  name =" home-outline " > </ ion-icon >
+                </ período >
+                < span  class =" texto " >
+                    Início
+                </ período >
+            </ li >
+            < li  style =" --i: #70e094; --j:#99e599 " >
+                < classe span  =" ícone " >
+                    < ion-icon  name =" call-outline " > </ ion-icon >
+                </ período >
+                < span  class =" texto " >
+                    Ligar
+                </ período >
+            </ li >
+            < li  style =" --i: #ff9966; --j:#ff5e62 " >
+                < classe span  =" ícone " >
+                    < ion-icon  name =" chatbox-outline " > </ ion-icon >
+                </ período >
+                < span  class =" texto " >
+                    Mensagem
+                </ período >
+            </ li >
+            < li  style =" --i: #1755ba; --j:#00bfff " >
+                < classe span  =" ícone " >
+                    < ion-icon  name =" person-outline " > </ ion-icon >
+                </ período >
+                < span  class =" texto " >
+                    Contato
+                </ período >
+            </ li >
+            < li  style =" --i: #ffa9c6; --j:#f434e2 " >
+                < classe span  =" ícone " >
+                    < ion-icon  name =" cog-outline " > </ ion-icon >
+                </ período >
+                < span  class =" texto " >
+                    Configurações
+                </ período >
+            </ li >
+        </ ul >
+    </ div >
+    < script  type =" module " src =" https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js " > </ script >
+    < script  nomodule  src =" https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js " > </ script >
+
+</ corpo >
+</ html >
